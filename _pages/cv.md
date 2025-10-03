@@ -25,32 +25,22 @@ coordination
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Qualitative analysis
+* Atlas.ti
+* SPSS
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Jia, Y. (2025). Doing Hanfu: An ethnographic study of embodied meaning-making practices of
+contemporary young Chinese. [Doctoral dissertation, Maastricht University]. Maastricht University. https://doi.org/10.26481/dis.20250924yj
+* Jia, Y., Aalberse, S., & Cornips, L. (2025). Negotiating new cultured identities through stylizing Wenyan: the case of young Chinese in China and the Netherlands. Multilingua, 44(3), 347-371. https://doi.org/10.1515/multi-2024-0134
+* Jia, Y., & Smelik, A. (2024). Hanfu catwalk shows: A performance of Chinese femininities. Fashion, Style & Popular Culture, Advance online publication. https://doi.org/10.1386/fspc_00244_1
+* Jia, Y. (2024). Beyond the scripts of digital posters: A case study of language ideologies and writing practices in contemporary China. Diggit Magazine 09/02/2024. Online:https://www.diggitmagazine.com/academic-papers/beyondscripts-digital-posters-case-study-language-ideologies-and-writing-practices
+* Jia, Y. (2023). Modern ancient Chinese: A discursive construction of Hanfu identity across spatiotemporal scales. Language, Culture and Society, 5(2), 246 - 268. https://doi.org/10.1075/lcs.22025.jia
+* Hu, W., & Jia, Y. (2020). The great value of Chinese diplomatic thought and practice in the new era: A review of the perspectives of foreign think tanks. Studies on Mao Zedong and Deng Xiaoping Theories, (12), 85-93+105.
+* Jia, Y., & Liu, Y. (2019). Everyone can be “Laoban (老板)”— commercialization of Chinese address terms. Modern Chinese, 0(6), 147-153.
   
 Service and leadership
 ======
-* 2024:Organization committee member, 33e Anéla-/VIOT Juniorendag 
+* Organization committee member, 33e Anéla-/VIOT Juniorendag, 2024 
 * Managed financial budgets and seek for sponsorships/Reviewed the abstracts and gave feedback/Collaborated and coordinated with other committee members to share tasks
