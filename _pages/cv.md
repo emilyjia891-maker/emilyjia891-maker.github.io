@@ -44,5 +44,5 @@ Professional services
 ======
 * Organization committee member, 33e Anéla-/VIOT Juniorendag, 2024 
   * Managed financial budgets and seek for sponsorships/Reviewed the abstracts and gave feedback/Collaborated and coordinated with other committee members to share tasks.
-* PhD representative in the LOT assessment
+* PhD representative in the LOT assessment, 2024
   * Reviewed LOT’s 2018–2023 self-evaluation report and provided feedback, with a focus on the quality and structure of its academic programmes and training offerings. 
