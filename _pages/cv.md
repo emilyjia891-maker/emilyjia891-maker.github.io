@@ -21,7 +21,7 @@ Work experience
 * September 2020-December 2020: Research Assistant
   * School of Marxism Studies, Beijing International Studies University
   * Assisted with primary source research, focusing on archival materials and global think tank analyses/Conducted in-depth research on the development and application of China’s “discourse power"/Provided administrative support for meetings and events, including planning and
-coordination
+coordination.
 
 Skills
 ======
@@ -32,7 +32,7 @@ Skills
 Publications
 ======
 * Jia, Y. (2025). Doing Hanfu: An ethnographic study of embodied meaning-making practices of
-contemporary young Chinese. [Doctoral dissertation, Maastricht University]. Maastricht University. https://doi.org/10.26481/dis.20250924yj
+contemporary young Chinese. [Doctoral dissertation, Maastricht University]. Netherlands Graduate School of Linguistics. https://doi.org/10.26481/dis.20250924yj
 * Jia, Y., Aalberse, S., & Cornips, L. (2025). Negotiating new cultured identities through stylizing Wenyan: the case of young Chinese in China and the Netherlands. Multilingua, 44(3), 347-371. https://doi.org/10.1515/multi-2024-0134
 * Jia, Y., & Smelik, A. (2024). Hanfu catwalk shows: A performance of Chinese femininities. Fashion, Style & Popular Culture, Advance online publication. https://doi.org/10.1386/fspc_00244_1
 * Jia, Y. (2024). Beyond the scripts of digital posters: A case study of language ideologies and writing practices in contemporary China. Diggit Magazine 09/02/2024. Online:https://www.diggitmagazine.com/academic-papers/beyondscripts-digital-posters-case-study-language-ideologies-and-writing-practices
@@ -40,7 +40,9 @@ contemporary young Chinese. [Doctoral dissertation, Maastricht University]. Maas
 * Hu, W., & Jia, Y. (2020). The great value of Chinese diplomatic thought and practice in the new era: A review of the perspectives of foreign think tanks. Studies on Mao Zedong and Deng Xiaoping Theories, (12), 85-93+105.
 * Jia, Y., & Liu, Y. (2019). Everyone can be “Laoban (老板)”— commercialization of Chinese address terms. Modern Chinese, 0(6), 147-153.
   
-Service and leadership
+Professional services
 ======
 * Organization committee member, 33e Anéla-/VIOT Juniorendag, 2024 
-* Managed financial budgets and seek for sponsorships/Reviewed the abstracts and gave feedback/Collaborated and coordinated with other committee members to share tasks
+  * Managed financial budgets and seek for sponsorships/Reviewed the abstracts and gave feedback/Collaborated and coordinated with other committee members to share tasks.
+* PhD representative in the LOT assessment
+  * Reviewed LOT’s 2018–2023 self-evaluation report and provided feedback, with a focus on the quality and structure of its academic programmes and training offerings. 
