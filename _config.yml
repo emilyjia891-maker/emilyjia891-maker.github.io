@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Your Name / Site Title"
-title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+title                    : "Dr"
+title_separator          : "."
+name                     : "Yan Jia"
+description              : &description "Yan Jia's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,24 +24,24 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Yan Jia"
+  pronouns         : # "she/her"  
+  bio              : "I am a sociolinguist, ethnographer, and scholar interested in interdisciplinary studies"
+  location         : "Maastricht, the Netherlands"
+  employer         : 
   uri              : # URL
   email            : "none@example.org" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=eCfMjq0AAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-0024-676X"
   semantic         : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  researchgate     : # https://www.researchgate.net/profile/Yan-Jia-38
   scopus           : # URL
 
   # Repositories and software development
@@ -63,7 +63,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : # Yan Jia
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -82,9 +82,11 @@ author:
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
-    title: 'Books'
+    title: 'Doing Hanfu: An ethnographic study of embodied meaning-making practices of contemporary young Chinese'
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'Negotiating new cultured identities through stylizing Wenyan: the case of young Chinese in China and the Netherlands'  'Hanfu catwalk shows: A performance of Chinese femininities' 'Beyond the scripts of digital posters: A case study of language ideologies and
+writing practices in contemporary China''Modern ancient Chinese: A discursive construction of Hanfu identity across spatiotemporal scales' 'Everyone can be “Laoban (老板)”— commercialization of Chinese address
+terms' 
   conferences:
     title: 'Conference Papers'
 
