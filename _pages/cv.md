@@ -11,27 +11,18 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* PhD in Arts and Social Sciences, Maastricht University, January 2021-September 2025
+* MA in English Language, Literature and Culture, Beijing International Studies University, September 2017-June 2020
+* BA in English, Anhui Polytechnic University, September 2012-June 2016
+* BA in Marketing, Anhui Polytechnic University, September 2013-July 2016
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* September 2020-December 2020: Research Assistant
+  * School of Marxism Studies, Beijing International Studies University
+  * Assisted with primary source research, focusing on archival materials and global think tank analyses/Conducted in-depth research on the development and application of China’s “discourse power"/Provided administrative support for meetings and events, including planning and
+coordination
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
 * Skill 1
@@ -61,4 +52,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* 2024:Organization committee member, 33e Anéla-/VIOT Juniorendag 
+* Managed financial budgets and seek for sponsorships/Reviewed the abstracts and gave feedback/Collaborated and coordinated with other committee members to share tasks
