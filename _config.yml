@@ -22,7 +22,7 @@ repository               : "emilyjia891-maker.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "/assets/profile.jpg"
   name             : "Dr.Yan Jia"
   pronouns         : # example: "she/her"  
   bio              : "Trained as a sociolinguist, I am interested in interdisciplinary research that connects multiple fields, including migration, gender, ethnography, semiotics, fashion, embodiment, and identity."
