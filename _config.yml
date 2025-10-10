@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Yan Jia / Academic portfolio"
+title                    : "Yan Jia / Academic Website"
 title_separator          : "-"
 name                     : &name "Yan Jia"
-description              : &description "Yan Jia's academic portfolio"   
+description              : &description "Yan Jia's academic website"   
 url                      : https://emilyjia891-maker.github.io # The base hostname & protocol for your site e.g. "https://emilyjia891-maker.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "emilyjia891-maker.github.io"
@@ -22,7 +22,7 @@ repository               : "emilyjia891-maker.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/assets/profile.jpg"
+  avatar           : "Profile.jpeg"
   name             : "Dr.Yan Jia"
   pronouns         : # example: "she/her"  
   bio              : "Trained as a sociolinguist, I am interested in interdisciplinary research that connects multiple fields, including migration, gender, ethnography, semiotics, fashion, embodiment, and identity."
