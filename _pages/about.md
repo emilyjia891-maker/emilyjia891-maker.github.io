@@ -12,6 +12,7 @@ I obtained my Doctor of Philosophy (Ph.D.) in Arts and Social Sciences from Maas
 
 My research interests lie broadly in China studies, sociolinguistics, ethnography, and social interaction, with particular focuses on:
 
+- Hanfu revival
 - Gender studies
 - Embodiment
 - Semiotics
