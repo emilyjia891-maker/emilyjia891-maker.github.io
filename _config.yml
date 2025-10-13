@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Yan Jia / Academic Website"
+title                    : "Yan Jia / Yan Jia's Academic Website"
 title_separator          : "-"
 name                     : &name "Yan Jia"
 description              : &description "Yan Jia's academic website"   
