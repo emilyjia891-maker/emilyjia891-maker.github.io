@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Welcome to my website"
+title                    : "Welcome to My Website"
 description              : "Sociolinguist | PhD at Maastricht University | Ethnographer | researcher in Hanfu, self-defined Hanfu fans, language, culture, semiotics, and embodiment."   
 url                      : https://emilyjia891-maker.github.io # The base hostname & protocol for your site e.g. "https://emilyjia891-maker.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
