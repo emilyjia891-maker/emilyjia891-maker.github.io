@@ -11,35 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Ph.D. in Arts and Social Sciences**, Maastricht University, the Netherlands, 2025
+* **M.A. in English Language, Literature and Culture**, Beijing International Studies University, China, 2017-2020
+* **B.A. in English** and **B.M. with minor in Marketing**, Anhui Polytechnic University, China, 2012-2016
 
 Publications
 ======
@@ -47,18 +21,40 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Talks and Presentations
 ======
   <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
+    {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
-Teaching
+
+Research Interests
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* China studies
+* Sociolinguistics
+* Ethnography
+* Gender studies
+* Embodiment
+* Fashion studies
+* Identity construction
+* Youth culture
   
-Service and leadership
+Research Experience
 ======
-* Currently signed in to 43 different slack teams
+* **Doctoral Researcher**, January 2021- September 2025
+  * Maastricht University
+  * Project: Ethnographic study of embodied meaning- making practices of contemporary young Chinese
+  * Fieldwork in Beijing, China, and the Netherlands
+    
+* **Research Assistant**, September 2020 - December 2020
+  * School of Marxism Studies, Beijing International Studies University
+  * Assisted Professor Hu with primary source research, focusing on archival materials and global think tank analyses
+  * Conducted in-depth research on the development and application of China's "discourse power"
+  * Provided administrative support for meetings and events, including planning and coordination
+    
+Skills
+======
+* Ethnographic fieldwork
+* Qualitative analysis
+* Atlas.ti
+* SPSS
+
