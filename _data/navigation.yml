@@ -12,8 +12,13 @@ main:
     url: /publications/
 
   - title: "Talks"
-    url: /talks/       
-    
+    url: /talks/
+
+  - title: "Public Engagement"
+    url: /engagement/
+
   - title: "CV"
     url: /cv/
-  
+
+  - title: "Contact"
+    url: /contact/  
