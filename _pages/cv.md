@@ -13,7 +13,7 @@ Education
 ======
 * **Ph.D. in Arts and Social Sciences**, Maastricht University, the Netherlands, 2025
 * **M.A. in English Language, Literature and Culture**, Beijing International Studies University, China, 2017-2020
-* **B.A. in English** and **B.M. with minor in Marketing**, Anhui Polytechnic University, China, 2012-2016
+* **B.A. in English** and **B.M. with minor in Marketing**, Anhui Polytechnic University, China, 2012/2013-2016
 
 Publications
 ======
